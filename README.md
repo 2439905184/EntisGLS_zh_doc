@@ -1,0 +1,2 @@
+# EntisGLS_zh_doc
+EntisGLS引擎的非官方中文汉化手册
